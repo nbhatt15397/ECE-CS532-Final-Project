@@ -65,4 +65,3 @@ Dos_Loss, Training_Accuracy = model.evaluate(A_train_standr, Encoded_Train_Label
 print('Accuracy of Test data set: ', Test_Accuracy)
 print('Accuracy of training data set: ', Training_Accuracy)
 
-# The testing data set has an accuracy of around 95% and the training data set has an accuracy of 97%
